@@ -152,7 +152,8 @@ data(){
     margin-right: 15px;
   }
   .img-box{
-    width: 90px;
+    width: 80%;
+    height: 80%;
   }
 }
 @media only screen and (max-width:300px){
